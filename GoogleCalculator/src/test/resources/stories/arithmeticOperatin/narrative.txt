@@ -1,0 +1,4 @@
+Arithmetic operation
+In order to calculate two numbers
+As an Google Calculator user
+I want to calculate two numbers

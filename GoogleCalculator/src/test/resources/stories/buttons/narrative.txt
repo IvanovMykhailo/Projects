@@ -1,0 +1,4 @@
+Check button
+In order to click button
+As an Google Calculator user
+I want to see correct symbol into input field
